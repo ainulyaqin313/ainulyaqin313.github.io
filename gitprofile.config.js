@@ -95,7 +95,7 @@ const config = {
 Shopeepay 0895332083613 (dosataksempoerna)
 BCA Syariah 0260003066 (Yazid Machtum)',
       imageUrl: 'https://telegra.ph/file/3cb133a8632fc5cfb4039.jpg',
-      link: 'https://example.com',
+      link: 'https://ainulyaqin.my.id',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
