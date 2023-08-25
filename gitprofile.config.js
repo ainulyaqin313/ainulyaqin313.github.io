@@ -25,7 +25,7 @@ const config = {
     skype: '',
     telegram: '',
     website: 'https://ainulyaqin313.my.id',
-    phone: '',
+    phone: '+62895332083613',
     email: 'mawta.ainulyaqin@gmail.com',
   },
   resume: {
