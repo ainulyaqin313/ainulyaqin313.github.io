@@ -4,9 +4,9 @@ const config = {
   github: {
     username: 'ainulyaqin313', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 0, // How many projects to display.
     exclude: {
-      forks: true, // Forked projects will not be displayed if set to true.
+      forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -91,7 +91,7 @@ const config = {
   blog: {
     source: 'medium', // medium | dev
     username: 'mawta.ainulyaqin', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    limit: 10, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
