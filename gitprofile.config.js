@@ -25,7 +25,7 @@ const config = {
     skype: '',
     telegram: '',
     website: 'https://ainulyaqin313.my.id',
-    phone: '+62895332083613',
+    phone: '62895332083613',
     email: 'mawta.ainulyaqin@gmail.com',
   },
   resume: {
@@ -86,13 +86,7 @@ const config = {
       to: '2014',
     },
   ],*/
-  // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'medium', // medium | dev
-    username: 'mawta.ainulyaqin', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
-  },
-    // To hide the `My Projects` section, keep it empty.
+      // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'Project Name',
@@ -109,6 +103,12 @@ const config = {
       link: 'https://example.com',
     },
   ],
+  // Display blog posts from your medium or dev account. (Optional)
+  blog: {
+    source: 'medium', // medium | dev
+    username: 'mawta.ainulyaqin', // to hide blog section, keep it empty
+    limit: 2, // How many posts to display. Max is 10.
+  },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
