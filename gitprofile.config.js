@@ -14,8 +14,8 @@ const config = {
     linkedin: '',
     twitter: '',
     mastodon: '',
-    facebook: 'https://www.facebook.com/majelistalim.ainulyaqin',
-    instagram: 'https://instagram.com/majelisainulyaqin_official',
+    facebook: 'majelistalim.ainulyaqin',
+    instagram: 'majelisainulyaqin_official',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -48,7 +48,7 @@ const config = {
     'Antd',
     'Tailwind',
   ],
-  experiences: [
+  /*experiences: [
     {
       company: 'Company Name',
       position: 'Position',
@@ -71,7 +71,7 @@ const config = {
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Institution Name',
@@ -85,10 +85,10 @@ const config = {
       from: '2012',
       to: '2014',
     },
-  ],
+  ],*/
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+  /*externalProjects: [
     {
       title: 'Project Name',
       description:
@@ -103,11 +103,11 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-  ],
+  ],*/
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'mawta.ainulyaqin', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
