@@ -24,7 +24,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://ainulyaqin.my.id',
+    website: 'majelisainulyaqin.my.id',
     phone: '62895332083613',
     email: 'mawta.ainulyaqin@gmail.com',
   },
@@ -90,7 +90,7 @@ const config = {
   externalProjects: [
     {
       title: 'M.A.W.T.A',
-      description: 'Dana 0895332083613 | Shopeepay 0895332083613 | BCA Syariah 0260003066 (Yazid Machtum)',
+      description: 'Dana 0895332083613\nShopeepay0895332083613\nBCA Syariah 0260003066 (Yazid Machtum)',
       imageUrl: 'https://telegra.ph/file/3cb133a8632fc5cfb4039.jpg',
       link: 'https://ainulyaqin.my.id',
     },
