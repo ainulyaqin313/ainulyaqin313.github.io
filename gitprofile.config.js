@@ -90,7 +90,7 @@ const config = {
   externalProjects: [
     {
       title: 'M.A.W.T.A',
-      description: 'Dana 0895332083613\nShopeepay0895332083613\nBCA Syariah 0260003066 (Yazid Machtum)',
+      description: 'Dana 0895332083613 | Shopeepay0895332083613 | BCA Syariah 0260003066 (Yazid Machtum)',
       imageUrl: 'https://telegra.ph/file/3cb133a8632fc5cfb4039.jpg',
       link: 'https://ainulyaqin.my.id',
     },
