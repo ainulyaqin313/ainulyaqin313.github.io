@@ -23,7 +23,7 @@ export default defineConfig({
       manifest: {
         name: 'Portfolio',
         short_name: 'Portfolio',
-        description: 'Personal Portfolio',
+        description: 'Majelis Ainul Yaqin',
         icons: [
           {
             src: 'logo.png',
