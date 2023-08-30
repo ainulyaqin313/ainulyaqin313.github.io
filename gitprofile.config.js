@@ -82,7 +82,7 @@ const config = {
   externalProjects: [
     {
       title: 'M.A.W.T.A',
-      description: 'Dana 0895332083613 | Shopeepay 0895332083613 | BCA Syariah 0260003066 (Yazid Machtum)',
+      description: 'Makasih yang sudah berdonasi semoga rezekinya di limpahkan sama Allah SWT',
       imageUrl: 'https://telegra.ph/file/3cb133a8632fc5cfb4039.jpg',
       link: 'https://majelisainulyaqin.my.id',
     },
